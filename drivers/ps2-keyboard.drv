@@ -1,0 +1,4 @@
+name=ps2-keyboard
+class=input
+backend=builtin
+enabled=1

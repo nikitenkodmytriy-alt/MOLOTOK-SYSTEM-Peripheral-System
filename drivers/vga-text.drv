@@ -1,0 +1,4 @@
+name=vga-text
+class=display
+backend=builtin
+enabled=1
