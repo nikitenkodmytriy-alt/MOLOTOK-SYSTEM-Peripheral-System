@@ -1,4 +1,4 @@
-# MSPC OS 1.1
+# MSPC OS 1.1 MOLOTOK SYSTEM Peripheral System
 
 License: GNU GPLv2 or later. Read and sign [LICENSE.md](LICENSE.md).
 
