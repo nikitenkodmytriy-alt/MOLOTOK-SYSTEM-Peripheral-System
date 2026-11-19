@@ -1,0 +1,4 @@
+name=pcnet-am79c973
+class=network
+backend=builtin
+enabled=1
